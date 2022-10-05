@@ -35,6 +35,7 @@
   position: absolute;
   bottom: 30px;
   left: 64px;
+  font-weight: normal;
 }
 
 .header__link {
@@ -93,6 +94,9 @@
   width: 175px;
   font-size: 18px;
   line-height: 1.2;
+  margin: 0;
+  font-weight: normal;
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
@@ -115,13 +119,6 @@
 
 .two-columns__paragraph:last-of-type {
   margin-bottom: 0;
-}
-
-.two-columns__brief {
-  width: 175px;
-  margin: 0;
-  font-weight: normal;
-  color: #2f80ed;
 }
 
 .digits {
