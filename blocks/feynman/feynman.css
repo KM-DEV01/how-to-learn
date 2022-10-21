@@ -4,4 +4,5 @@
   background: #f2f2f2 url(../../images/feynman.png) bottom left no-repeat;
   text-align: center;
   padding-top: 100px;
+  box-sizing: border-box;
 }

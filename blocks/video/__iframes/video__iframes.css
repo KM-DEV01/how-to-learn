@@ -1,7 +1,8 @@
 .video__iframes {
-  margin-top: -10px;
   display: flex;
   justify-content: center;
   gap: 20px;
-  transform: translate(0, 60px);
+  transform: translate(0, 50px);
+  list-style: none;
+  padding: 0;
 }
